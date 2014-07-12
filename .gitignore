@@ -1,0 +1,16 @@
+#Eclipse
+.metadata
+
+#Tizen 
+.build
+.sdk_delta.info
+
+#Tizen built widgit artifact
+*.wgt
+!SubmittedApps/*.wgt
+
+.rds_delta
+
+node_modules/
+.idea/
+.settings/
