@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/coltsoftware/snaked/badges/gpa.svg)](https://codeclimate.com/github/coltsoftware/snaked)
+
 Snaked for Gear 2
 =================
 
